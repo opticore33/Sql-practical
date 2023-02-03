@@ -6,3 +6,9 @@ Submitting practical with screenshot of query and output in the document file
 
 To demonstrate the ability to write and execute sql queries to retrieve data from database.
 
+## Used DBMS & GUI tool
+
+ - postgreSql database management system
+ - PgAdmin 
+
+
